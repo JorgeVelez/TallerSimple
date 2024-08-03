@@ -1,14 +1,15 @@
-# THIS IS SIMPLEPLAITS
+# ESTO ES SIMPLEPLAITS
 
-## QUICK INSTALL
-Download the [Binary file](simple-plaits.bin) and flash using the [Daisy Seed web programmer](https://electro-smith.github.io/Programmer/)
+## INSTALACIÖN
+Bajar el [archivo binario](simple-plaits.bin) y flashear usando el[Daisy Seed web programmer](https://electro-smith.github.io/Programmer/)
 
-## CONTROLS
+Basado en Plaits de Mutable Instruments https://pichenettes.github.io/mutable-instruments-documentation/modules/plaits/
+<img src="plaits.jpg" height="300"/>
+## CONTROLES
 <img src="../touch.jpeg" width="300"/>
 
 **Switches**
-- S07-S08 - arpeggiator off/on/latch
-- S09-S10 - Osc 2 mode: \\\ → sound, || and // → AM.     
+- S07-S08 - dron/teclado
 
 **Knobs**
 - S30 - Osc 2 amount
