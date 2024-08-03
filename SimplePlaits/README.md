@@ -3,7 +3,7 @@
 ## INSTALACIÖN
 Bajar el [archivo binario](simple-plaits.bin) y flashear usando el[Daisy Seed web programmer](https://electro-smith.github.io/Programmer/)
 
-Basado en Plaits de Mutable Instruments https://pichenettes.github.io/mutable-instruments-documentation/modules/plaits/
+Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/mutable-instruments-documentation/modules/plaits/manual/)
 
 
 <img src="plaits.jpg" height="300"/>
