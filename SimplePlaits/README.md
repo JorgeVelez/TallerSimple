@@ -4,7 +4,11 @@
 Bajar el [archivo binario](simple-plaits.bin) y flashear usando el[Daisy Seed web programmer](https://electro-smith.github.io/Programmer/)
 
 Basado en Plaits de Mutable Instruments https://pichenettes.github.io/mutable-instruments-documentation/modules/plaits/
+
+
 <img src="plaits.jpg" height="300"/>
+
+
 ## CONTROLES
 <img src="../touch.jpeg" width="300"/>
 
