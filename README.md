@@ -6,5 +6,7 @@ Explore various touch-controlled instruments and examples, designed for the Simp
 
 Link a getting started https://github.com/electro-smith/DaisyExamples
 
-Link a programador web [https://www.synthux.academy/shop](https://electro-smith.github.io/Programmer/)
+Link a programador web https://electro-smith.github.io/Programmer/
+
+Link a zadig https://github.com/electro-smith/DaisyWiki/wiki/Using-Zadig-to-Reset-USB-Driver-(Windows-Only)
 
