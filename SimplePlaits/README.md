@@ -15,6 +15,10 @@ Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/m
 **Switches**
 - S07-S08 - Dron/teclado
 
+**PADS**
+- P01/P02 - UP/DOWN MODELOS
+- P03-P10 - TECLADO
+
 **Perillas**
 - S11 - Frequency
 - S34 - Harmonics
