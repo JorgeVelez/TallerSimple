@@ -4,5 +4,7 @@ Explore various touch-controlled instruments and examples, designed for the Simp
 
 ![Simple Touch Synth](https://github.com/Synthux-Academy/simple-touch-instruments/assets/91409567/21892c99-8bf1-432e-a098-692aca500b3c)
 
+Link a getting started https://github.com/electro-smith/DaisyExamples
+
 Link a programador web [https://www.synthux.academy/shop](https://electro-smith.github.io/Programmer/)
 
