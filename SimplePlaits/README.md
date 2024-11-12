@@ -17,12 +17,12 @@ Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/m
 
 **PADS**
 - P10/P11 - UP/DOWN MODELOS
-- P04-P9  - TECLADO
+- P04-P09  - TECLADO
 
 **Perillas**
 - S11 - Frequency
 - S34 - Harmonics
-- S30 - Timbre
-- S35 - Morph
+- S32 - Timbre
+- S33 - Morph
 - S37 - Scale
 
