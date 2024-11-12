@@ -13,16 +13,16 @@ Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/m
 <img src="../touch.jpeg" width="300"/>
 
 **Switches**
-- S07-S08 - Dron/teclado
+- S07-S08 - Drone/Keyboard
 
 **PADS**
-- P01/P02 - UP/DOWN MODELOS
-- P03-P10 - TECLADO
+- P10/P11 - UP/DOWN MODELOS
+- P04-P9  - TECLADO
 
 **Perillas**
 - S11 - Frequency
 - S34 - Harmonics
 - S30 - Timbre
 - S35 - Morph
-- S37 - Escala
+- S37 - Scale
 
