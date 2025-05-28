@@ -25,4 +25,5 @@ Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/m
 - S32 - Timbre
 - S33 - Morph
 - S37 - Scale
+- S37 - Scale Bank
 
