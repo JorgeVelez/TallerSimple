@@ -20,7 +20,7 @@ Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/m
 - P04-P09  - TECLADO
 
 **Perillas**
-- S11 - Frequency
+- S31 - Frequency
 - S34 - Harmonics
 - S32 - Timbre
 - S33 - Morph
