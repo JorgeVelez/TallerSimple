@@ -21,9 +21,7 @@ Basado en Plaits de Mutable Instruments [Manual](https://pichenettes.github.io/m
 
 **Perillas**
 - S31 - Frequency
-- S34 - Harmonics
-- S32 - Timbre
-- S33 - Morph
+- S32 - Harmonics
+- S33 - Timbre
+- S34 - Morph
 - S37 - Scale
-- S37 - Scale Bank
-
